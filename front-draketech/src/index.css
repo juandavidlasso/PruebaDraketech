@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Content_form {
+  margin: 0 auto;
+  background: white;
+  box-shadow: 0px 0px 8px gray;
+  width: 80%;
+  border-radius: 10px;
+}
+.Content_form_image {
+  width: 30%;
+}
+.Content_form_button {
+  padding: 10px 40px;
+  border-radius: 15px;
+  background: #1a237e;
+  color: white;
+  border: 1px solid #1a237e;
+}
+
+.Content_form_button:hover {
+  background: #1e88e5;
+  color: white;
+  border: 1px solid #1e88e5;
+}
+.Content_form_profile_h1 {
+  color: #1a237e;
+}
+.Content_form_profile_table {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.btnEdit {
+  padding: 10px 20px;
+  border-radius: 15px;
+  background: #b71c1c;
+  color: white;
+  border: 1px solid #b71c1c;
+}
+.btnEdit:hover {
+  background: #e53935;
+  color: white;
+  border: 1px solid #e53935;
+}
+
+.btnEdit1 {
+  padding: 10px 40px;
+  border-radius: 15px;
+  background: #b71c1c;
+  color: white;
+  border: 1px solid #b71c1c;
+  text-decoration: none;
+  width: 300px;
+}
+.btnEdit1:hover {
+  background: #e53935;
+  color: white;
+  border: 1px solid #e53935;
+}
+
+.Content_form_button1 {
+  padding: 10px 40px;
+  border-radius: 15px;
+  background: #1a237e;
+  color: white;
+  border: 1px solid #1a237e;
+}
+
+.Content_form_button1:hover {
+  background: #1e88e5;
+  color: white;
+  border: 1px solid #1e88e5;
+}
+
+.Content_navbar {
+  background: #1a237e;
+  height: 80px;
+}
+.Content_navbar p {
+  font-size: 1.3rem;
+}
+.btnLogount {
+  color: white;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+.btnLogount:hover {
+  color: black;
+}
+
+.btnCreate {
+  padding: 10px 40px;
+  border-radius: 15px;
+  background: #1a237e;
+  color: white;
+  border: 1px solid #1a237e;
+  text-decoration: none;
+}
+.btnCreate:hover {
+  background: #1e88e5;
+  color: white;
+  border: 1px solid #1e88e5;
+}
